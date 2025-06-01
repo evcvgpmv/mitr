@@ -1,0 +1,101 @@
+SAP_BOOK_ID,Bookname,systementity
+B0001,Accounts Receivable 3,QuickBooks
+B0002,Inventory 6,Dynamics
+B0003,Fixed Assets 2,Oracle
+B0004,General Ledger 8,NetSuite
+B0005,Inventory 4,SAP
+B0006,Accounts Payable 7,NetSuite
+B0007,General Ledger 4,NetSuite
+B0008,Fixed Assets 3,Oracle
+B0009,Inventory 6,NetSuite
+B0010,Accounts Payable 1,Oracle
+B0011,Accounts Payable 6,Oracle
+B0012,General Ledger 9,NetSuite
+B0013,Accounts Payable 10,QuickBooks
+B0014,Accounts Receivable 3,Oracle
+B0015,Accounts Payable 7,QuickBooks
+B0016,Fixed Assets 3,NetSuite
+B0017,Fixed Assets 5,Dynamics
+B0018,Accounts Receivable 10,Oracle
+B0019,Accounts Payable 4,QuickBooks
+B0020,Accounts Payable 3,NetSuite
+B0021,Accounts Payable 8,NetSuite
+B0022,General Ledger 6,Oracle
+B0023,Fixed Assets 2,Dynamics
+B0024,Accounts Payable 8,Oracle
+B0025,General Ledger 8,SAP
+B0026,General Ledger 3,NetSuite
+B0027,Inventory 4,NetSuite
+B0028,Inventory 9,Dynamics
+B0029,Accounts Payable 6,Oracle
+B0030,Fixed Assets 4,SAP
+B0031,Fixed Assets 6,SAP
+B0032,Accounts Payable 5,Dynamics
+B0033,General Ledger 8,Oracle
+B0034,Accounts Payable 4,QuickBooks
+B0035,General Ledger 4,Oracle
+B0036,Accounts Receivable 5,NetSuite
+B0037,Inventory 1,Dynamics
+B0038,General Ledger 4,SAP
+B0039,Accounts Payable 6,SAP
+B0040,Fixed Assets 5,Dynamics
+B0041,General Ledger 2,NetSuite
+B0042,General Ledger 1,SAP
+B0043,Accounts Receivable 3,NetSuite
+B0044,Fixed Assets 5,SAP
+B0045,Fixed Assets 3,Oracle
+B0046,Fixed Assets 4,Dynamics
+B0047,Accounts Receivable 2,Dynamics
+B0048,General Ledger 9,Dynamics
+B0049,Accounts Receivable 3,NetSuite
+B0050,Fixed Assets 2,NetSuite
+B0051,General Ledger 8,Dynamics
+B0052,General Ledger 9,Dynamics
+B0053,General Ledger 3,SAP
+B0054,Inventory 5,QuickBooks
+B0055,Accounts Receivable 7,NetSuite
+B0056,Inventory 7,Dynamics
+B0057,General Ledger 10,Dynamics
+B0058,Inventory 5,Dynamics
+B0059,Accounts Payable 3,Oracle
+B0060,Inventory 4,NetSuite
+B0061,Accounts Receivable 8,SAP
+B0062,Inventory 3,QuickBooks
+B0063,General Ledger 5,NetSuite
+B0064,Inventory 1,Dynamics
+B0065,Accounts Payable 1,QuickBooks
+B0066,Accounts Receivable 1,NetSuite
+B0067,Accounts Payable 5,Dynamics
+B0068,General Ledger 10,NetSuite
+B0069,Accounts Receivable 1,NetSuite
+B0070,General Ledger 1,NetSuite
+B0071,Inventory 6,QuickBooks
+B0072,Fixed Assets 1,SAP
+B0073,Inventory 7,QuickBooks
+B0074,Accounts Receivable 2,NetSuite
+B0075,General Ledger 6,Dynamics
+B0076,Accounts Receivable 2,QuickBooks
+B0077,Inventory 5,NetSuite
+B0078,General Ledger 1,NetSuite
+B0079,Accounts Receivable 7,SAP
+B0080,Fixed Assets 1,SAP
+B0081,General Ledger 10,QuickBooks
+B0082,Inventory 2,SAP
+B0083,Accounts Receivable 9,QuickBooks
+B0084,Accounts Receivable 8,Oracle
+B0085,General Ledger 3,Oracle
+B0086,Inventory 4,QuickBooks
+B0087,Accounts Receivable 6,SAP
+B0088,Accounts Receivable 6,Dynamics
+B0089,Fixed Assets 3,Dynamics
+B0090,General Ledger 3,Dynamics
+B0091,Accounts Receivable 1,Dynamics
+B0092,Accounts Payable 5,QuickBooks
+B0093,Fixed Assets 1,Oracle
+B0094,Accounts Payable 2,Oracle
+B0095,Accounts Receivable 3,Dynamics
+B0096,Fixed Assets 9,NetSuite
+B0097,Fixed Assets 6,NetSuite
+B0098,Inventory 2,Dynamics
+B0099,Accounts Receivable 6,QuickBooks
+B0100,Fixed Assets 8,Dynamics
